@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">👋 console.log("Hola! Mi nombre es Luis Miguel Ospino") </h1> 
 
-<!--
-**luispino32/luispino32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Conocido como luispino32 en github
 
-Here are some ideas to get you started:
+Soy programador <strong>Full Stack</strong>. Mi primera experiencia en desarrollo fue en C++ para la programación de microcontroladores, 
+lo que me facilitó el aprendizaje de lenguajes de más alto nivel como JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis objetivos:
+* Lograr el señorío, mejorando mis habilidades técnicas.
+* Agregar habilidades como TypeScript, Python y aprender a integrar recursos de IA en mis proyectos.
+* En mi proceso de aprendizaje, pretendo consolidar el conocimiento con buenas prácticas que favorezcan los resultados en mis implementaciones.
+  
+## Tecnologías:
+```javascript
+const luispino32 = {
+  pronouns: "he" | "him",
+  code: ["Javascript", "HTML", "CSS", "C++"],
+  dataBase: ["MySQL", "PostgeSQL", "MongoDB"],
+  tools: ["React", "Redux", "Node", "Express", "Docker", "AWS"],
+  softSkill: ["Self-learning", "Problem-solving skills and critical thinking", "Communication"]
+}
+```
+
+### No dudes en contactarme:
+Linkedin: www.linkedin.com/in/luis-miguel-ospino-acuña-a45976148
+
+Email: luispino32@hotmail.com
