@@ -22,6 +22,6 @@ const luispino32 = {
 ```
 
 ### No dudes en contactarme:
-Linkedin: www.linkedin.com/in/luis-miguel-ospino-acuña-a45976148
+Linkedin: www.linkedin.com/in/luis-miguel-ospino
 
 Email: luispino32@hotmail.com
